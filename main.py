@@ -10,5 +10,4 @@ def main():
     book_path = sys.argv[1]
     print_report(book_path)
 
-
 main()
