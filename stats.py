@@ -1,8 +1,3 @@
-#with open("books/") as f:
-#	get_book_text = f.read()
-#
-#get_num_words = len(get_book_text.split())
-
 def get_num_chars(text):
     counts = {}
     for char in text.lower():
